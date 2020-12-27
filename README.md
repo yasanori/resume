@@ -4,9 +4,10 @@
 
 |key|value|
 |---|-----|
-|Name|ふー　ばー (Foo Bar)|
-|Blog|[ふーばーブログ](http://foobar.blog.com)|
-|Twitter|[@foobar](https://twitter.com/foobar)|
+|Name|永尾　優典(Nagao Masanori)|
+|Github|[yasanori](https://github.com/yasanori)|
+|Qiita|[@Masanori_N](https://qiita.com/Masanori_N)|
+|Twitter|[@___yu_suke___](https://twitter.com/___yu_suke___)|
 
 ## スキル
 ### 言語
