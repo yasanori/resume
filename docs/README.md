@@ -2,7 +2,7 @@
 
 ## 基本情報
 
-|||
+|key|value|
 |---|-----|
 |Name|永尾　優典(Nagao Masanori)|
 |Birthday|1995/06/18|
