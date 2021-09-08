@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "lint": "textlint docs/README.md",
+    "build:pdf": "md-to-pdf docs/README.md --config-file ./pdf-configs/config.js"
+  },
   "dependencies": {
     "md-to-pdf": "^4.0.1",
     "textlint": "^12.0.2"
