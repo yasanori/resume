@@ -7,8 +7,7 @@
 | Name     | 永尾　優典(Nagao Masanori)                          |
 | Birthday | 1995/06/18                                          |
 | Github   | [yasanori](https://github.com/yasanori)             |
-| Qiita    | [@Masanori_N](https://qiita.com/Masanori_N)         |
-| Twitter  | [@**_yu_suke_**](https://twitter.com/___yu_suke___) |
+| Twitter  | [@**_yu_suke_**](https://x.com/__yu_1995__) |
 
 ---
 
@@ -25,14 +24,15 @@
 
 - Ruby on Rails
 - React
-- Next.js
+- Next
+- Vue
+- Nuxt
 
 ### その他
 
 - Redux
 - Tailwind
 - styled-components
-- Atomic Design
 - Storybook
 - RSpec
 - PostgreSQL / MySQL
@@ -48,10 +48,7 @@
 - 日本語
   - ネイティブ
 - 英語
-
   - TOEIC: 250 点（自称：東海地区 20 代で最低点）
-
-  ***
 
 ## 経験したい / 興味があるもの
 
@@ -91,7 +88,7 @@
 
 **職務**
 
-2023/04 - 現在
+2023/04 - 2023/12
 
 - 業務委託
 - Engineering Manager
