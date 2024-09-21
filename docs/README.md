@@ -7,7 +7,7 @@
 | Name     | 永尾　優典(Nagao Masanori)                          |
 | Birthday | 1995/06/18                                          |
 | Github   | [yasanori](https://github.com/yasanori)             |
-| Twitter  | [@**_yu_suke_**](https://x.com/__yu_1995__) |
+| Twitter  | [@__yu_1995__](https://x.com/__yu_1995__) |
 
 ---
 
