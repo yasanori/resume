@@ -209,11 +209,11 @@ PdMと協力して要件定義や仕様策定を行い、ユーザーのニー�
 
 **使用技術**
 
-- React 16.8.6
-- Redux 4.01
+- React
+- Redux
 - styled-components
-- Ruby 2.6.0
-- Ruby on Rails 6.0.0
+- Ruby
+- Ruby on Rails
 - AWS
 - PostgreSQL
 - GitLab
